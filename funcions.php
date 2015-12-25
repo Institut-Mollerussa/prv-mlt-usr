@@ -2,12 +2,17 @@
 
 function a()
 {
-	// CANVI DE L'USUARI MMODOL2
+//nothing to do
 }
 
 function b()
 {
-	
+//nothing to do
+}
+
+function c()
+{
+//nothing to do
 }
 
 ?>
