@@ -15,11 +15,9 @@ function c()
 //nothing to do
 }
 
-
-
-function demmodol2()
+function novademmodolalfork()
 {
-	//aquesta funcio tampoc fa res
+	// no fa res
 }
 
 ?>
