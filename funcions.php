@@ -1,15 +1,19 @@
 <?php
 
-funcio a()
+function a()
 {
-// modificacio de mmodol i pull	
+//nothing to do
 }
 
-funcio b()
+function b()
 {
-	
+//nothing to do
 }
 
+function c()
+{
+//nothing to do
+}
 
 
 
